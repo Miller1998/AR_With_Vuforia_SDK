@@ -4,8 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Resources/UnityChan/Scenes/ARPoseTest.unity
-    guid: dc19d125674d55e4395fbb75f6d6f855
+  m_Scenes: []
   m_configObjects: {}

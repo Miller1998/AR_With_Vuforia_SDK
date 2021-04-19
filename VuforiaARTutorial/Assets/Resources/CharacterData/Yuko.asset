@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78f962e67a6096340a074ea3bc75d299, type: 3}
+  m_Name: Yuko
+  m_EditorClassIdentifier: 
+  characterName: Yuko
+  characterDes: 'Age : 17
+
+    Birthday : 06/13
+
+    BloodType : AB
+
+
+    This is
+    one of Kohaku best friend inside the game who has the cat ears and tail. Her
+    name is Yuko Kanbayashi.'
