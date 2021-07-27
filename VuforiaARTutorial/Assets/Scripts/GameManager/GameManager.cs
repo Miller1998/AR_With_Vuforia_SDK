@@ -78,15 +78,4 @@ public class GameManager : MonoBehaviour
 
     }
 
-    #region Duty
-    /*public void TrackerDetector(string nameTracker)
-    {
-        
-        Debug.Log("Tracker Name : " + nameTracker);
-        detectedTrackerName = nameTracker;
-
-    }*/
-
-    #endregion
-
 }
